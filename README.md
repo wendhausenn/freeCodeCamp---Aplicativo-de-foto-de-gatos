@@ -1,4 +1,4 @@
-# freeCodeCamp --- Aplicativo-de-foto-de-gatos
+# freeCodeCamp - Aplicativo-de-foto-de-gatos
 
 Super app de gatos, amazing!
 
